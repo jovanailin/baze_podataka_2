@@ -1,0 +1,311 @@
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\bin\Debug\Proba.exe.config
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmNacinPlacanjaBLL.resources
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\bin\Debug\Proba.exe
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\bin\Debug\Proba.pdb
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.exe
+c:\users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.pdb
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmProdavnica.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmUnosProdavnice.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmArtikal.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmUnosArtikla.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmKategorija.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmKategorijaArtikla.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKategorijeArtikla.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzija.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmMaterijal.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzijaArtikla.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+C:\Users\korisnik\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.UIL.frmCenaArtikla.resources
+J:\Proba\Proba\bin\Debug\Proba.exe.config
+J:\Proba\Proba\obj\Debug\Proba.exe
+J:\Proba\Proba\obj\Debug\Proba.pdb
+J:\Proba\Proba\bin\Debug\Proba.exe
+J:\Proba\Proba\bin\Debug\Proba.pdb
+J:\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+J:\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmArtikal.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmCenaArtikla.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzija.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzijaArtikla.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmKategorija.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmKategorijaArtikla.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmMaterijal.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmNacinPlacanjaBLL.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmProdavnica.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosArtikla.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKategorijeArtikla.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosProdavnice.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKlijenta.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+J:\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeKlijenta.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmTransfer.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+J:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+D:\Proba\Proba\bin\Debug\Proba.exe.config
+D:\Proba\Proba\obj\Debug\Proba.exe
+D:\Proba\Proba\obj\Debug\Proba.pdb
+D:\Proba\Proba\bin\Debug\Proba.exe
+D:\Proba\Proba\bin\Debug\Proba.pdb
+D:\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+D:\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmArtikal.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeKlijenta.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmCenaArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzija.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzijaArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmKategorija.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmKategorijaArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmMaterijal.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmNacinPlacanjaBLL.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmProdavnica.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmTransfer.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKategorijeArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKlijenta.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosProdavnice.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+D:\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosDobavljaca.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmDobavljac.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmNabavka.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkeNabavke.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmSastavArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmSifarniciAplikacija.resources
+F:\21_04_2020\Proba\Proba\bin\Debug\Proba.exe.config
+F:\21_04_2020\Proba\Proba\obj\Debug\Proba.exe
+F:\21_04_2020\Proba\Proba\obj\Debug\Proba.pdb
+J:\21_04_2020\Proba\Proba\bin\Debug\Proba.exe.config
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.exe
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.pdb
+J:\21_04_2020\Proba\Proba\bin\Debug\Proba.exe
+J:\21_04_2020\Proba\Proba\bin\Debug\Proba.pdb
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkeNabavke.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmArtikal.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeKlijenta.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmCenaArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzija.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmDimenzijaArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmDobavljac.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmKategorija.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmKategorijaArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmMaterijal.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmNabavka.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmNacinPlacanjaBLL.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmProdavnica.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmSastavArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmSifarniciAplikacija.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmTransfer.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosDobavljaca.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKategorijeArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKlijenta.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosProdavnice.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeArtikla.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeDobavljaca.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmKlijent.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmStanjeIsporuke.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmStatusIsporuke.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.UIL.frmUnosIsporuke.resources
+J:\21_04_2020\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeArtikla.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeDobavljaca.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmStatusIsporuke.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmKlijent.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmStanjeIsporuke.resources
+D:\Proba\Proba\obj\Debug\Proba.UIL.frmUnosIsporuke.resources
+J:\projekat jun 2020 utorak\Proba\Proba\bin\Debug\Proba.exe.config
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.exe
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.pdb
+J:\projekat jun 2020 utorak\Proba\Proba\bin\Debug\Proba.exe
+J:\projekat jun 2020 utorak\Proba\Proba\bin\Debug\Proba.pdb
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmVrstaProizvoda.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosProizvoda.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmCenaProizvoda.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKupca.resources
+G:\projekat jun 2020 utorak\Proba\Proba\bin\Debug\Proba.exe.config
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.exe
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.pdb
+G:\projekat jun 2020 utorak\Proba\Proba\bin\Debug\Proba.exe
+G:\projekat jun 2020 utorak\Proba\Proba\bin\Debug\Proba.pdb
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmCenaProizvoda.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmVrstaProizvoda.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosProizvoda.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosKupca.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmAzuriranjeStavkiRacuna.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeStavkeRacuna.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmAzuriranjeStavkiRacuna.resources
+G:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmBrisanjeStavkeRacuna.resources
+J:\projekat jun 2020 utorak\Proba\Proba\obj\Debug\Proba.UIL.frmKatalog.resources
+J:\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.exe.config
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.exe
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.pdb
+G:\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.exe.config
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.exe
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.pdb
+G:\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.exe
+G:\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.pdb
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.Properties.Resources.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmAzuriranjeStavkiRacuna.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeStavkeRacuna.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmCenaProizvoda.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmKatalog.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmVrstaProizvoda.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosProizvoda.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosKupca.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+G:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+J:\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.exe
+J:\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.pdb
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.Properties.Resources.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmAzuriranjeStavkiRacuna.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeStavkeRacuna.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmCenaProizvoda.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmKatalog.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmVrstaProizvoda.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosProizvoda.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosKupca.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+J:\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.exe
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.pdb
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.Properties.Resources.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmAdresa.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmAzuriranjeStavkiRacuna.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeAdrese.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeAzuriranjeUlice.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmBrisanjeStavkeRacuna.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmCenaProizvoda.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmEvidencija.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmGlavniMeni.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmJedinicaMere.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmKatalog.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmSifarnici.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmVrstaProizvoda.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmMestoBLL.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmPrikazStavkiRacuna.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUlica.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosAdrese.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosProizvoda.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosKupca.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosRacuna.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosStavkiRacuna.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.UIL.frmUnosUlice.resources
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csproj.GenerateResource.cache
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.exe.config
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.exe
+D:\BP2\Projekat baze podataka\Projekat baze podataka\Aplikacija\Proba\bin\Debug\Proba.pdb
