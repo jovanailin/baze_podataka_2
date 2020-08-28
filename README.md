@@ -10,4 +10,4 @@ Projekat se sastoji iz 5 delova:
 2. Denormalizacija druge i treće normalne forme korišćenjem pre-joining i short-circuit tehnike.
 3. Implementacija korisnički definisanih tipova i trigera.
 4. Optimizacija baze podataka – kreiranje indeksa nad spoljnim ključem i tekstualnim poljem, vertikalno particionisanje, horizontalno particionisanje, dve različite tehnike optimizacije sa pratećim uskladištenim procedurama.
-5. Aplikacija nad bazom podataka u programskom jeziku Java.
+5. Aplikacija nad bazom podataka u programskom jeziku C#.
