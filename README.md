@@ -1,13 +1,9 @@
-# baze_podataka_2
-Proces isporuke i prodaje poljoprivrednih proizvoda započinje prijemom narudžbenice na osnovu izdatog kataloga o proizvodima.
-Proverava se tražena količina na stavci narudžbenice sa stanjem u bazi. Ako je rezultat upita tačan, nastavlja se sa daljim tokom isporuke.
-Prodavac izdaje otpremnicu sa detaljima o isporučenim proizvodima na osnovu koje kupac dalje izdaje prijemnicu o primljenim proizvodima.
-Na osnovu prijemnice prodavac izdaje račun (fakturu).
-Na kraju na osnovu fakture kupac vrši uplatu čime se proces isporuke i prodaje poljoprivrednih proizovda završava.
+The process of delivery and sale of agricultural products begins with the receipt of the purchase order based on the issued product catalog. The requested quantity on the item of the purchase order is checked against the balance in the database. If the result of the query is correct, it continues with the further delivery flow. The seller issues a delivery note with details of the delivered products, on the basis of which the buyer further issues a receipt for the received products. Based on the receipt, the seller issues a bill (invoice). Finally, based on the purchase invoice, he makes the payment, which completes the process of delivery and sale of agricultural products.
 
-Projekat se sastoji iz 5 delova:
-1. ER i relacioni model u kome su detaljno opisani svi objekti koji će se pojavljivati u bazi, zajedno sa njihovim atributima i međusobnim vezama.
-2. Denormalizacija druge i treće normalne forme korišćenjem pre-joining i short-circuit tehnike.
-3. Implementacija korisnički definisanih tipova i trigera.
-4. Optimizacija baze podataka – kreiranje indeksa nad spoljnim ključem i tekstualnim poljem, vertikalno particionisanje, horizontalno particionisanje, dve različite tehnike optimizacije sa pratećim uskladištenim procedurama.
-5. Aplikacija nad bazom podataka u programskom jeziku C#.
+The project consists of 5 parts:
+
+1. An ER and relational model detailing all the objects that will appear in the database, along with their attributes and interrelationships.
+2. Denormalization of second and third normal forms using pre-joining and short-circuiting techniques.
+3. Implementation of user-defined types and triggers.
+4. Database optimization - creating index on foreign key and text field, vertical partitioning, horizontal partitioning, two different optimization techniques with accompanying stored procedures.
+5. Database application in C# programming language.
